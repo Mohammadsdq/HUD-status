@@ -1,4 +1,4 @@
-# HUD-status
+# Status
 HUD & status
 
 # hove to install
